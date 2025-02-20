@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(181, 178, 174);
+}
+
+nav a {
+    background-color: rgb(135, 175, 162);
+    display:block;
+    padding: 20x 20px;
+    border-bottom: 3px solid white;
+}
+
+
+.moving {
+    position:relative;
+    top: 0px;
+    float: 0px;
+}
+
+.map {
+    width: 350px;
+    border: thin solid;
+    box-shadow: 2px 0px 3px color(srgb red green blue);
+    font-size: 30pt;
+    float:left;
+}
+
+.floating {
+    float: right;
+}
+
+.map img {
+    width: 100%;
+
+}
+
+.clear {
+    clear: both;
+}
+
+p {
+    width: 40%;
+    color:rgb(0, 0, 0);
+}
+
+li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: 30px; color: rgb(0, 0, 0);
+}
+
