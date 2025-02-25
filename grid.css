@@ -4,13 +4,17 @@ body {
     color: rgb(255, 255, 255);
 }
 
+
 nav {
     color: white; 
 }
 
+
+
+
 li {
     color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 23px;
 }
 
@@ -26,3 +30,4 @@ li {
 .child {
     background-color: rgb(88, 148, 182);
 }
+
